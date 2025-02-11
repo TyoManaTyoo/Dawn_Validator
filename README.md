@@ -16,10 +16,10 @@
 ### Install
 1. Clone the project and go to project directory
    ```
-   git clone https://github.com/recitativonika/Dawn-Validator-bot.git
+   git clone https://github.com/TyoManaTyoo/Dawn_Validator
    ```
    ```
-   cd Dawn-Validator-bot
+   cd Dawn_Validator
    ```
 2. Install required package
    ```
